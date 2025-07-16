@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning **Advanced State Management & Clean Architecture**
 - 💬 Ask me about **Flutter, Firebase, BLoC, MVVM**
-- 📫 How to reach me: **mina.dev@gmail.com**
 - 📍 Looking for opportunities in **UAE or Remote**
 
 <h3 align="left">Connect with me:</h3>
