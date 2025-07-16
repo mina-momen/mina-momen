@@ -7,11 +7,10 @@
 
 ---
 
-- 🔭 I’m currently working on **Online Exam App**
 - 🌱 Learning more about **Clean Architecture, BLoC, and Firebase**
 - 💬 Ask me about **Flutter, REST APIs, Firebase, MVVM**
 - 📫 Contact me: **mina.dev@gmail.com**
-- 🌍 Looking for opportunities in **UAE or Remote**
+
 
 ---
 
