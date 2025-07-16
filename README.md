@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mina Momen</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Online Exam App**
+
 - 🌱 I’m currently learning **Advanced State Management & Clean Architecture**
 - 💬 Ask me about **Flutter, Firebase, BLoC, MVVM**
 - 📫 How to reach me: **mina.dev@gmail.com**
